@@ -1,0 +1,26 @@
+[Historizer][2018-01-27 04:46:05,637][INFO] - Starting historization
+[Historizer][2018-01-27 04:46:05,637][INFO] - settings : histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[Historizer][2018-01-27 04:46:07,295][INFO] - starting importing histo data for XLTCZEUR.
+[Historizer][2018-01-27 04:46:07,296][INFO] - starting importing histo data for XXMRZEUR.
+[Historizer][2018-01-27 04:46:07,292][INFO] - starting importing histo data for XZECZEUR.
+[Historizer][2018-01-27 04:46:07,306][INFO] - starting importing histo data for XXRPZEUR.
+[Historizer][2018-01-27 04:46:07,308][INFO] - starting importing histo data for XETHZEUR.
+[Historizer][2018-01-27 04:46:07,310][INFO] - starting importing histo data for XXBTZEUR.
+[Historizer][2018-01-27 04:46:07,316][INFO] - starting importing histo data for XREPZEUR.
+[Historizer][2018-01-27 04:46:07,317][INFO] - starting importing histo data for DASHEUR.
+[Historizer][2018-01-27 04:46:07,326][INFO] - starting importing histo data for BCHEUR.
+[Historizer][2018-01-27 04:46:07,327][INFO] - starting importing histo data for XETCZEUR.
+[Historizer][2018-01-27 04:46:09,542][ERROR] - ''
+[Historizer][2018-01-27 04:46:09,543][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[Historizer][2018-01-27 04:46:09,543][INFO] - starting importing histo data for XLTCZEUR.
+[Historizer][2018-01-27 04:46:10,838][INFO] - ohlc histo file saved for XXMRZEUR.
+[Historizer][2018-01-27 04:46:11,347][INFO] - ohlc histo file saved for XZECZEUR.
+[Historizer][2018-01-27 04:46:13,175][INFO] - ohlc histo file saved for XXRPZEUR.
+[Historizer][2018-01-27 04:46:14,267][INFO] - ohlc histo file saved for XETHZEUR.
+[Historizer][2018-01-27 04:46:16,308][INFO] - ohlc histo file saved for XXBTZEUR.
+[Historizer][2018-01-27 04:46:17,451][INFO] - ohlc histo file saved for XREPZEUR.
+[Historizer][2018-01-27 04:46:19,334][INFO] - ohlc histo file saved for DASHEUR.
+[Historizer][2018-01-27 04:46:19,790][INFO] - ohlc histo file saved for BCHEUR.
+[Historizer][2018-01-27 04:46:21,706][INFO] - ohlc histo file saved for XETCZEUR.
+[Historizer][2018-01-27 04:46:22,956][INFO] - ohlc histo file saved for XLTCZEUR.
+[Historizer][2018-01-27 04:46:22,963][INFO] - End historization

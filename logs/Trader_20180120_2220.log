@@ -1,0 +1,15 @@
+[Trader][2018-01-20 22:21:00,722][INFO] - =========== START =============
+[Trader][2018-01-20 22:21:00,752][INFO] - [XXRPZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 22:21:00,754][INFO] - [XXRPZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:21:00.740672
+[Trader][2018-01-20 22:21:00,756][INFO] - [XXBTZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 22:21:00,759][INFO] - [XXBTZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:21:00.744783
+[Trader][2018-01-20 22:21:00,756][INFO] - [XLTCZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 22:21:00,764][INFO] - [XLTCZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:21:00.741543
+[Trader][2018-01-20 22:21:00,761][INFO] - [XETHZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 22:21:00,766][INFO] - [XETHZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:21:00.743071
+[Trader][2018-01-20 22:21:01,850][INFO] - [XXRPZEUR][H_1800_3_2] Next signal at 2018-01-20 22:31:01.849919
+[Trader][2018-01-20 22:21:02,317][INFO] - [XETHZEUR][H_1800_3_2] Next signal at 2018-01-20 22:31:02.316908
+[Trader][2018-01-20 22:21:02,476][INFO] - [XXBTZEUR][H_1800_3_2] Next signal at 2018-01-20 22:31:02.475949
+[Trader][2018-01-20 22:21:03,838][INFO] - [XLTCZEUR][H_1800_3_2] Next signal at 2018-01-20 22:31:03.838374
+[Trader][2018-01-20 22:23:36,660][ERROR] - Shutting down after signal from user!!!!
+Bye!

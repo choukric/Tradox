@@ -1,0 +1,29 @@
+[Historizer][2018-01-28 22:46:47,909][INFO] - Starting historization
+[Historizer][2018-01-28 22:46:47,910][INFO] - settings : histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[Historizer][2018-01-28 22:46:49,682][INFO] - starting importing histo data for XZECZEUR.
+[Historizer][2018-01-28 22:46:49,685][INFO] - starting importing histo data for XXMRZEUR.
+[Historizer][2018-01-28 22:46:49,686][INFO] - starting importing histo data for XLTCZEUR.
+[Historizer][2018-01-28 22:46:49,687][INFO] - starting importing histo data for XXBTZEUR.
+[Historizer][2018-01-28 22:46:49,694][INFO] - starting importing histo data for XETHZEUR.
+[Historizer][2018-01-28 22:46:49,695][INFO] - starting importing histo data for XXRPZEUR.
+[Historizer][2018-01-28 22:46:49,697][INFO] - starting importing histo data for DASHEUR.
+[Historizer][2018-01-28 22:46:49,698][INFO] - starting importing histo data for XREPZEUR.
+[Historizer][2018-01-28 22:46:49,703][INFO] - starting importing histo data for BCHEUR.
+[Historizer][2018-01-28 22:46:49,705][INFO] - starting importing histo data for XETCZEUR.
+[Historizer][2018-01-28 22:46:57,668][INFO] - ohlc histo file saved for XZECZEUR.
+[Historizer][2018-01-28 22:47:00,027][INFO] - ohlc histo file saved for XXMRZEUR.
+[Historizer][2018-01-28 22:47:02,430][INFO] - ohlc histo file saved for XLTCZEUR.
+[Historizer][2018-01-28 22:47:08,400][INFO] - ohlc histo file saved for XXBTZEUR.
+[Historizer][2018-01-28 22:47:09,232][ERROR] - ''
+[Historizer][2018-01-28 22:47:09,233][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[Historizer][2018-01-28 22:47:09,233][INFO] - starting importing histo data for XETHZEUR.
+[Historizer][2018-01-28 22:47:11,899][INFO] - ohlc histo file saved for XXRPZEUR.
+[Historizer][2018-01-28 22:47:14,627][INFO] - ohlc histo file saved for DASHEUR.
+[Historizer][2018-01-28 22:47:18,613][INFO] - ohlc histo file saved for XREPZEUR.
+[Historizer][2018-01-28 22:47:19,813][ERROR] - ''
+[Historizer][2018-01-28 22:47:19,814][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[Historizer][2018-01-28 22:47:19,814][INFO] - starting importing histo data for BCHEUR.
+[Historizer][2018-01-28 22:47:23,991][INFO] - ohlc histo file saved for XETCZEUR.
+[Historizer][2018-01-28 22:47:26,421][INFO] - ohlc histo file saved for XETHZEUR.
+[Historizer][2018-01-28 22:47:29,229][INFO] - ohlc histo file saved for BCHEUR.
+[Historizer][2018-01-28 22:47:29,237][INFO] - End historization

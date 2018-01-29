@@ -1,0 +1,191 @@
+[historizer][2018-01-07 13:27:06,686][INFO] - Starting historization
+[historizer][2018-01-07 13:27:06,687][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 13:27:08,426][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 13:27:08,432][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 13:27:08,433][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 13:27:08,438][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 13:27:08,444][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 13:27:08,451][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 13:27:08,464][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 13:27:08,475][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 13:27:08,466][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 13:27:08,484][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 13:27:12,444][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 13:27:13,246][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 13:27:15,376][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 13:27:15,916][INFO] - ohlc histo file saved for XXBTZEUR.
+[historizer][2018-01-07 13:27:17,205][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 13:27:18,418][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 13:27:19,246][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 13:27:23,066][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 13:27:25,352][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 13:27:27,315][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 13:27:27,321][INFO] - End historization
+[historizer][2018-01-07 15:26:49,777][INFO] - Starting historization
+[historizer][2018-01-07 15:26:49,780][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 15:26:50,644][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 15:26:50,654][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 15:26:50,656][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 15:26:50,661][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 15:26:50,667][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 15:26:50,671][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 15:26:50,672][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 15:26:50,679][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 15:26:50,686][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 15:26:50,689][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 15:26:55,963][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 15:26:57,534][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 15:26:58,833][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 15:27:00,308][INFO] - ohlc histo file saved for XXBTZEUR.
+[historizer][2018-01-07 15:27:01,523][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 15:27:03,503][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 15:27:04,578][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 15:27:06,146][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 15:27:07,513][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 15:27:09,982][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 15:27:09,989][INFO] - End historization
+[historizer][2018-01-07 17:27:13,804][INFO] - Starting historization
+[historizer][2018-01-07 17:27:13,808][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 17:27:18,581][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 17:27:18,585][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 17:27:18,593][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 17:27:18,595][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 17:27:18,595][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 17:27:18,584][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 17:27:18,597][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 17:27:18,603][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 17:27:18,605][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 17:27:18,607][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 17:27:26,936][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 17:27:30,558][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 17:27:33,018][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 17:27:35,611][INFO] - ohlc histo file saved for XXBTZEUR.
+[historizer][2018-01-07 17:27:37,910][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 17:27:41,569][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 17:27:45,293][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 17:27:47,301][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 17:27:52,160][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 17:27:54,429][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 17:27:54,434][INFO] - End historization
+[historizer][2018-01-07 19:27:58,177][INFO] - Starting historization
+[historizer][2018-01-07 19:27:58,181][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 19:28:00,332][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 19:28:00,336][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 19:28:00,338][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 19:28:00,347][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 19:28:00,350][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 19:28:00,356][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 19:28:00,364][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 19:28:00,367][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 19:28:00,369][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 19:28:00,371][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 19:28:04,988][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 19:28:07,062][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 19:28:08,361][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 19:28:10,434][INFO] - ohlc histo file saved for XXBTZEUR.
+[historizer][2018-01-07 19:28:12,021][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 19:28:14,277][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 19:28:15,847][ERROR] - ''
+[historizer][2018-01-07 19:28:15,848][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 19:28:15,848][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 19:28:18,701][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 19:28:21,199][ERROR] - ''
+[historizer][2018-01-07 19:28:21,200][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 19:28:21,201][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 19:28:23,346][ERROR] - ''
+[historizer][2018-01-07 19:28:23,346][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 19:28:23,347][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 19:28:29,235][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 19:28:31,062][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 19:28:32,929][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 19:28:32,934][INFO] - End historization
+[historizer][2018-01-07 21:28:36,575][INFO] - Starting historization
+[historizer][2018-01-07 21:28:36,578][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 21:28:40,451][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 21:28:40,452][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 21:28:40,451][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 21:28:40,456][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 21:28:40,464][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 21:28:40,468][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 21:28:40,471][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 21:28:40,469][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 21:28:40,473][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 21:28:40,484][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 21:28:41,647][ERROR] - ''
+[historizer][2018-01-07 21:28:41,647][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:28:41,648][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 21:28:43,019][ERROR] - ''
+[historizer][2018-01-07 21:28:43,021][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:28:43,022][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 21:28:45,222][ERROR] - ''
+[historizer][2018-01-07 21:28:45,223][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:28:45,224][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 21:28:46,934][ERROR] - ''
+[historizer][2018-01-07 21:28:46,937][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:28:46,939][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 21:29:03,058][ERROR] - ''
+[historizer][2018-01-07 21:29:03,061][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:29:03,062][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 21:29:06,445][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 21:29:08,907][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 21:29:10,797][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 21:29:43,997][ERROR] - ''
+[historizer][2018-01-07 21:29:44,001][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 21:29:44,001][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 21:29:48,140][ERROR] - ''
+[historizer][2018-01-07 21:29:48,148][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 21:29:48,149][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 21:29:50,798][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 21:29:51,981][ERROR] - ''
+[historizer][2018-01-07 21:29:51,982][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 21:29:51,983][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 21:30:08,453][ERROR] - ''
+[historizer][2018-01-07 21:30:08,454][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 21:30:08,455][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 21:30:10,882][ERROR] - ''
+[historizer][2018-01-07 21:30:10,883][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 21:30:10,884][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 21:30:12,784][ERROR] - ''
+[historizer][2018-01-07 21:30:12,785][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 21:30:12,785][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 21:30:20,796][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 21:30:23,413][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 21:30:31,437][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 21:30:41,554][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 21:30:43,593][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 21:30:43,599][INFO] - End historization
+[historizer][2018-01-07 23:30:47,501][INFO] - Starting historization
+[historizer][2018-01-07 23:30:47,504][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-07 23:30:50,224][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 23:30:50,232][INFO] - starting importing histo data for XXBTZEUR.
+[historizer][2018-01-07 23:30:50,232][INFO] - starting importing histo data for XETHZEUR.
+[historizer][2018-01-07 23:30:50,227][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 23:30:50,231][INFO] - starting importing histo data for XXMRZEUR.
+[historizer][2018-01-07 23:30:50,242][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 23:30:50,243][INFO] - starting importing histo data for DASHEUR.
+[historizer][2018-01-07 23:30:50,245][INFO] - starting importing histo data for XREPZEUR.
+[historizer][2018-01-07 23:30:50,246][INFO] - starting importing histo data for BCHEUR.
+[historizer][2018-01-07 23:30:50,250][INFO] - starting importing histo data for XETCZEUR.
+[historizer][2018-01-07 23:30:52,935][INFO] - ohlc histo file saved for XXBTZEUR.
+[historizer][2018-01-07 23:31:00,381][INFO] - ohlc histo file saved for XETHZEUR.
+[historizer][2018-01-07 23:31:16,017][ERROR] - ''
+[historizer][2018-01-07 23:31:16,019][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 23:31:16,020][INFO] - starting importing histo data for XLTCZEUR.
+[historizer][2018-01-07 23:31:33,519][ERROR] - ''
+[historizer][2018-01-07 23:31:33,521][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 23:31:33,522][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 23:31:35,728][INFO] - ohlc histo file saved for XXMRZEUR.
+[historizer][2018-01-07 23:31:36,770][ERROR] - ''
+[historizer][2018-01-07 23:31:36,771][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[historizer][2018-01-07 23:31:36,772][INFO] - starting importing histo data for XXRPZEUR.
+[historizer][2018-01-07 23:31:39,154][INFO] - ohlc histo file saved for DASHEUR.
+[historizer][2018-01-07 23:31:40,658][INFO] - ohlc histo file saved for BCHEUR.
+[historizer][2018-01-07 23:31:43,881][INFO] - ohlc histo file saved for XREPZEUR.
+[historizer][2018-01-07 23:31:45,296][INFO] - ohlc histo file saved for XETCZEUR.
+[historizer][2018-01-07 23:31:46,817][INFO] - ohlc histo file saved for XLTCZEUR.
+[historizer][2018-01-07 23:32:03,785][ERROR] - ''
+[historizer][2018-01-07 23:32:03,786][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[historizer][2018-01-07 23:32:03,787][INFO] - starting importing histo data for XZECZEUR.
+[historizer][2018-01-07 23:32:06,865][INFO] - ohlc histo file saved for XXRPZEUR.
+[historizer][2018-01-07 23:32:09,112][INFO] - ohlc histo file saved for XZECZEUR.
+[historizer][2018-01-07 23:32:09,118][INFO] - End historization

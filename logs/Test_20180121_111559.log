@@ -1,0 +1,9 @@
+[Test][2018-01-21 11:16:02,850][INFO] - =========== START =============
+[Test][2018-01-21 11:16:05,561][INFO] - [XXRPZEUR][H_180_3_2] ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=180, stop_loss=0%, wick=True, candles=3, bodies=2
+[Test][2018-01-21 11:16:05,571][INFO] - [XXRPZEUR][H_180_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Test][2018-01-21 11:16:05,573][INFO] - [XXRPZEUR][H_180_3_2] Pulling prices since 2018-01-21 11:10:02.875514
+[Test][2018-01-21 11:16:21,938][ERROR] - Shutting down after signal from user!!!!
+Bye!
+[Test][2018-01-21 11:16:21,941][ERROR] - ''
+[Test][2018-01-21 11:16:21,941][ERROR] - Problem while requesting data for XXRPZEUR. Re-attempting (nb 1)
+[Test][2018-01-21 11:16:27,545][INFO] - [XXRPZEUR][H_180_3_2] Next signal at 2018-01-21 11:17:27.545657

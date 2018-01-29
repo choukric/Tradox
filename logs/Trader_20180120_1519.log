@@ -1,0 +1,18 @@
+[Trader][2018-01-20 15:19:26,952][INFO] - ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:19:26,954][INFO] - ====Trading System TradingSystem1 started===== pair=XLTCZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:19:26,954][INFO] - ====Trading System TradingSystem1 started===== pair=XETHZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:19:26,955][INFO] - ====Trading System TradingSystem1 started===== pair=XXBTZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:19:26,960][INFO] - [XXRPZEUR] PNL=PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:19:26,961][INFO] - [XLTCZEUR] PNL=PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:19:26,961][INFO] - pulling prices for XXRPZEUR since 2018-01-20 14:19:26.951925
+[Trader][2018-01-20 15:19:26,961][INFO] - [XETHZEUR] PNL=PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:19:26,962][INFO] - pulling prices for XLTCZEUR since 2018-01-20 14:19:26.954017
+[Trader][2018-01-20 15:19:26,962][INFO] - pulling prices for XETHZEUR since 2018-01-20 14:19:26.954120
+[Trader][2018-01-20 15:19:26,962][INFO] - [XXBTZEUR] PNL=PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:19:26,963][INFO] - pulling prices for XXBTZEUR since 2018-01-20 14:19:26.954729
+[Trader][2018-01-20 15:19:28,460][INFO] - Next signal for XXRPZEUR at 2018-01-20 15:29:28.460571
+[Trader][2018-01-20 15:19:28,768][INFO] - Next signal for XLTCZEUR at 2018-01-20 15:29:28.768758
+[Trader][2018-01-20 15:19:28,770][INFO] - Next signal for XETHZEUR at 2018-01-20 15:29:28.769833
+[Trader][2018-01-20 15:19:29,122][INFO] - Next signal for XXBTZEUR at 2018-01-20 15:29:29.122636
+[Trader][2018-01-20 15:19:41,460][ERROR] - Shutting down after signal from user!!!!
+Bye!

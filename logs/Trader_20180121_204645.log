@@ -1,0 +1,29 @@
+[Trader][2018-01-21 20:46:48,595][INFO] - =========== START =============
+[Trader][2018-01-21 20:46:52,463][INFO] - [XXRPZEUR][H_180_3_2] ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=180, stop_loss=0%, wick=True, candles=3, bodies=2
+[Trader][2018-01-21 20:46:52,465][INFO] - [XXRPZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:40:48.620942
+[Trader][2018-01-21 20:46:52,807][INFO] - [XETHZEUR][H_180_3_2] ====Trading System TradingSystem1 started===== pair=XETHZEUR, simul=True, step=180, stop_loss=0%, wick=True, candles=3, bodies=2
+[Trader][2018-01-21 20:46:52,808][INFO] - [XETHZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:40:48.623846
+[Trader][2018-01-21 20:46:52,961][INFO] - [XXBTZEUR][H_180_3_2] ====Trading System TradingSystem1 started===== pair=XXBTZEUR, simul=True, step=180, stop_loss=0%, wick=True, candles=3, bodies=2
+[Trader][2018-01-21 20:46:52,962][INFO] - [XXBTZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:40:48.635871
+[Trader][2018-01-21 20:46:53,250][INFO] - [XETHZEUR][H_180_3_2] Next signal at 2018-01-21 20:47:53.250778
+[Trader][2018-01-21 20:46:53,441][INFO] - [XLTCZEUR][H_180_3_2] ====Trading System TradingSystem1 started===== pair=XLTCZEUR, simul=True, step=180, stop_loss=0%, wick=True, candles=3, bodies=2
+[Trader][2018-01-21 20:46:53,442][INFO] - [XLTCZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:40:48.621570
+[Trader][2018-01-21 20:46:53,765][INFO] - [XXRPZEUR][H_180_3_2] Next signal at 2018-01-21 20:47:53.765146
+[Trader][2018-01-21 20:46:54,430][INFO] - [XXBTZEUR][H_180_3_2] Next signal at 2018-01-21 20:47:54.430152
+[Trader][2018-01-21 20:46:54,572][INFO] - [XLTCZEUR][H_180_3_2] Next signal at 2018-01-21 20:47:54.572282
+[Trader][2018-01-21 20:47:53,253][INFO] - [XETHZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:45:00
+[Trader][2018-01-21 20:47:53,767][INFO] - [XXRPZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:45:00
+[Trader][2018-01-21 20:47:54,373][INFO] - [XETHZEUR][H_180_3_2] Next signal at 2018-01-21 20:48:54.373080
+[Trader][2018-01-21 20:47:54,432][INFO] - [XXBTZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:45:00
+[Trader][2018-01-21 20:47:54,575][INFO] - [XLTCZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:45:00
+[Trader][2018-01-21 20:47:55,594][INFO] - [XXRPZEUR][H_180_3_2] Next signal at 2018-01-21 20:48:55.594513
+[Trader][2018-01-21 20:47:55,852][INFO] - [XLTCZEUR][H_180_3_2] Next signal at 2018-01-21 20:48:55.852095
+[Trader][2018-01-21 20:47:55,852][INFO] - [XXBTZEUR][H_180_3_2] Next signal at 2018-01-21 20:48:55.852263
+[Trader][2018-01-21 20:48:54,376][INFO] - [XETHZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:46:00
+[Trader][2018-01-21 20:48:55,597][INFO] - [XXRPZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:46:00
+[Trader][2018-01-21 20:48:55,855][INFO] - [XLTCZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:46:00
+[Trader][2018-01-21 20:48:55,855][INFO] - [XXBTZEUR][H_180_3_2] Pulling prices since 2018-01-21 20:46:00
+[Trader][2018-01-21 20:48:56,388][INFO] - [XETHZEUR][H_180_3_2] Calculating signal
+[Trader][2018-01-21 20:48:57,428][INFO] - [XXRPZEUR][H_180_3_2] Calculating signal
+[Trader][2018-01-21 20:48:57,430][INFO] - [XXBTZEUR][H_180_3_2] Calculating signal
+[Trader][2018-01-21 20:48:57,699][INFO] - [XLTCZEUR][H_180_3_2] Calculating signal

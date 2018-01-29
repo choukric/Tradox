@@ -1,0 +1,6 @@
+[Test][2018-01-20 22:20:32,558][INFO] - =========== START =============
+[Test][2018-01-20 22:20:32,758][INFO] - [XXRPZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Test][2018-01-20 22:20:32,759][INFO] - [XXRPZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:20:32.747395
+[Test][2018-01-20 22:20:34,600][INFO] - [XXRPZEUR][H_1800_3_2] Next signal at 2018-01-20 22:30:34.599800
+[Test][2018-01-20 22:20:43,702][ERROR] - Shutting down after signal from user!!!!
+Bye!

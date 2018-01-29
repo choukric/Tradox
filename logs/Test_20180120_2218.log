@@ -1,0 +1,18 @@
+[Test][2018-01-20 22:18:04,926][INFO] - =========== START =============
+[Test][2018-01-20 22:18:21,642][INFO] - [XXRPZEUR][H_1800_3_2] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Test][2018-01-20 22:18:21,647][INFO] - [XXRPZEUR][H_1800_3_2] Pulling prices since 2018-01-20 21:18:05.099527
+[Test][2018-01-20 22:18:26,175][ERROR] - ''
+[Test][2018-01-20 22:18:26,176][ERROR] - Problem while requesting data for 1516483085.1. Re-attempting (nb 1)
+[Test][2018-01-20 22:18:28,854][ERROR] - ''
+[Test][2018-01-20 22:18:28,855][ERROR] - Problem while requesting data for 1516483085.1. Re-attempting (nb 2)
+[Test][2018-01-20 22:18:31,322][ERROR] - ''
+[Test][2018-01-20 22:18:31,323][ERROR] - Problem while requesting data for 1516483085.1. Re-attempting (nb 3)
+[Test][2018-01-20 22:18:37,846][ERROR] - ''
+[Test][2018-01-20 22:18:37,847][ERROR] - Problem while requesting data for 1516483085.1. Re-attempting (nb 4)
+[Test][2018-01-20 22:18:39,172][ERROR] - ''
+[Test][2018-01-20 22:18:39,173][ERROR] - Problem while requesting data for 1516483085.1. Re-attempting (nb 5)
+[Test][2018-01-20 22:18:43,066][ERROR] - Shutting down after signal from user!!!!
+Bye!
+[Test][2018-01-20 22:18:43,068][ERROR] - ''
+[Test][2018-01-20 22:18:43,069][ERROR] - Reached the max nb of attempts requesting get_ohlc_since 1516483085.1! Aborting!
+[Test][2018-01-20 22:18:43,070][ERROR] - [XXRPZEUR][H_1800_3_2] Unable to pull prices. Retrying at 2018-01-20 22:28:43.070626

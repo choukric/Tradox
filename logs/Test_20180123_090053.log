@@ -1,0 +1,8 @@
+[Test][2018-01-23 09:00:55,738][INFO] - =========== START =============
+[Test][2018-01-23 09:00:56,974][INFO] - [XXRPZEUR][H_180_3_2_900000_700000] ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=180, local_stop_loss=900000%, stop_loss=700000%, wick=True, candles=3, bodies=2
+[Test][2018-01-23 09:00:56,975][INFO] - [XXRPZEUR][H_180_3_2_900000_700000] Pulling prices since 2018-01-23 08:54:55.760335
+[Test][2018-01-23 09:00:58,508][INFO] - [XXRPZEUR][H_180_3_2_900000_700000] Calculating signal
+[Test][2018-01-23 09:00:58,514][INFO] - [XXRPZEUR][H_180_3_2_900000_700000] Signal received : Signal.PASS
+[Test][2018-01-23 09:00:58,515][INFO] - [XXRPZEUR][H_180_3_2_900000_700000] Next signal at 2018-01-23 09:01:58.515661
+[Test][2018-01-23 09:01:15,772][ERROR] - Shutting down after signal from user!!!!
+Bye!

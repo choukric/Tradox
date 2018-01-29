@@ -1,0 +1,4 @@
+[historizer][2018-01-12 01:56:20,145][INFO] - Starting historization
+[historizer][2018-01-12 01:56:20,146][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR
+[historizer][2018-01-12 03:56:44,606][INFO] - Starting historization
+[historizer][2018-01-12 03:56:44,609][INFO] - settings : log_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/logs/histo/, histo_dir=/Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/, quote_ccy=ZEUR

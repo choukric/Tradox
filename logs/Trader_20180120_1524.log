@@ -1,0 +1,513 @@
+[Trader][2018-01-20 15:24:21,171][INFO] - =========== START =============
+[Trader][2018-01-20 15:24:21,197][INFO] - ====Trading System TradingSystem1 started===== pair=XLTCZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:24:21,194][INFO] - ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:24:21,200][INFO] - ====Trading System TradingSystem1 started===== pair=XXBTZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:24:21,203][INFO] - ====Trading System TradingSystem1 started===== pair=XETHZEUR, simul=True, step=1800, wick=True, candles=3, bodies=2, stop-loss=None
+[Trader][2018-01-20 15:24:21,208][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:24:21,213][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:24:21,210][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 14:24:21.196853
+[Trader][2018-01-20 15:24:21,216][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:24:21,220][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 14:24:21.193797
+[Trader][2018-01-20 15:24:21,214][INFO] - [XETHZEUR] pulling prices since 2018-01-20 14:24:21.203219
+[Trader][2018-01-20 15:24:21,225][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0, Gain=0, Estimated=False)
+[Trader][2018-01-20 15:24:21,226][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 14:24:21.199585
+[Trader][2018-01-20 15:24:22,543][INFO] - [XXBTZEUR] Next signal at 2018-01-20 15:34:22.542922
+[Trader][2018-01-20 15:24:22,852][INFO] - [XXRPZEUR] Next signal at 2018-01-20 15:34:22.852505
+[Trader][2018-01-20 15:24:23,662][INFO] - [XETHZEUR] Next signal at 2018-01-20 15:34:23.662616
+[Trader][2018-01-20 15:24:24,360][INFO] - [XLTCZEUR] Next signal at 2018-01-20 15:34:24.360555
+[Trader][2018-01-20 15:34:22,566][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.44517676986672555, Gain=0.44517676986672555, Estimated=False)
+[Trader][2018-01-20 15:34:22,570][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 15:24:00
+[Trader][2018-01-20 15:34:22,877][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=0.052874561022781083, Gain=-0.052874561022781083, Estimated=False)
+[Trader][2018-01-20 15:34:22,878][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 15:24:00
+[Trader][2018-01-20 15:34:23,686][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=-0.30363391655451416, Gain=0.30363391655451416, Estimated=False)
+[Trader][2018-01-20 15:34:23,687][INFO] - [XETHZEUR] pulling prices since 2018-01-20 15:24:00
+[Trader][2018-01-20 15:34:24,202][INFO] - [XXRPZEUR] Next signal at 2018-01-20 15:44:24.202460
+[Trader][2018-01-20 15:34:24,383][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.27828764284445434, Gain=0.27828764284445434, Estimated=False)
+[Trader][2018-01-20 15:34:24,384][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 15:24:00
+[Trader][2018-01-20 15:34:24,678][INFO] - [XXBTZEUR] Next signal at 2018-01-20 15:44:24.678678
+[Trader][2018-01-20 15:34:25,176][INFO] - [XLTCZEUR] Next signal at 2018-01-20 15:44:25.176746
+[Trader][2018-01-20 15:34:25,662][INFO] - [XETHZEUR] Next signal at 2018-01-20 15:44:25.662474
+[Trader][2018-01-20 15:44:24,265][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=0.97285422877765315, Gain=-0.97285422877765315, Estimated=False)
+[Trader][2018-01-20 15:44:24,269][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 15:34:00
+[Trader][2018-01-20 15:44:24,744][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.8627721955105101, Gain=0.8627721955105101, Estimated=False)
+[Trader][2018-01-20 15:44:24,747][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 15:34:00
+[Trader][2018-01-20 15:44:25,232][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.54615612941524938, Gain=0.54615612941524938, Estimated=False)
+[Trader][2018-01-20 15:44:25,233][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 15:34:00
+[Trader][2018-01-20 15:44:25,719][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=-0.51505376344085629, Gain=0.51505376344085629, Estimated=False)
+[Trader][2018-01-20 15:44:25,720][INFO] - [XETHZEUR] pulling prices since 2018-01-20 15:34:00
+[Trader][2018-01-20 15:44:26,541][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 15:44:26,545][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 15:44:26,546][INFO] - [XXBTZEUR] Next signal at 2018-01-20 15:54:26.546632
+[Trader][2018-01-20 15:44:26,568][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 15:44:26,569][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 15:44:26,570][INFO] - [XXRPZEUR] Next signal at 2018-01-20 15:54:26.570047
+[Trader][2018-01-20 15:44:27,203][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 15:44:27,204][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 15:44:27,205][INFO] - [XLTCZEUR] Next signal at 2018-01-20 15:54:27.205412
+[Trader][2018-01-20 15:44:28,292][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 15:44:28,293][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 15:44:28,294][INFO] - [XETHZEUR] Next signal at 2018-01-20 15:54:28.294190
+[Trader][2018-01-20 15:54:26,586][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.64199903892358745, Gain=0.64199903892358745, Estimated=False)
+[Trader][2018-01-20 15:54:26,591][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 15:44:00
+[Trader][2018-01-20 15:54:26,599][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.989693156854567, Gain=-2.989693156854567, Estimated=False)
+[Trader][2018-01-20 15:54:26,600][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 15:44:00
+[Trader][2018-01-20 15:54:27,241][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.64470337729934546, Gain=0.64470337729934546, Estimated=False)
+[Trader][2018-01-20 15:54:27,243][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 15:44:00
+[Trader][2018-01-20 15:54:27,835][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:04:27.835306
+[Trader][2018-01-20 15:54:28,316][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:04:28.316181
+[Trader][2018-01-20 15:54:28,322][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=-0.21612903225806354, Gain=0.21612903225806354, Estimated=False)
+[Trader][2018-01-20 15:54:28,324][INFO] - [XETHZEUR] pulling prices since 2018-01-20 15:44:00
+[Trader][2018-01-20 15:54:28,984][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:04:28.984135
+[Trader][2018-01-20 15:54:30,665][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:04:30.665697
+[Trader][2018-01-20 16:04:27,870][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.4345973247050501, Gain=-2.4345973247050501, Estimated=False)
+[Trader][2018-01-20 16:04:27,873][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 15:54:00
+[Trader][2018-01-20 16:04:28,350][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.44228601162084463, Gain=0.44228601162084463, Estimated=False)
+[Trader][2018-01-20 16:04:28,352][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 15:54:00
+[Trader][2018-01-20 16:04:29,018][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.52697021730119398, Gain=0.52697021730119398, Estimated=False)
+[Trader][2018-01-20 16:04:29,019][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 15:54:00
+[Trader][2018-01-20 16:04:29,658][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:14:29.658009
+[Trader][2018-01-20 16:04:30,026][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:14:30.026208
+[Trader][2018-01-20 16:04:30,700][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=-0.1991924629878894, Gain=0.1991924629878894, Estimated=False)
+[Trader][2018-01-20 16:04:30,701][INFO] - [XETHZEUR] pulling prices since 2018-01-20 15:54:00
+[Trader][2018-01-20 16:04:31,906][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:14:31.906334
+[Trader][2018-01-20 16:04:32,115][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:14:32.115249
+[Trader][2018-01-20 16:14:29,692][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.59501530724863005, Gain=0.59501530724863005, Estimated=False)
+[Trader][2018-01-20 16:14:29,698][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:04:00
+[Trader][2018-01-20 16:14:30,059][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=1.6005021183116253, Gain=-1.6005021183116253, Estimated=False)
+[Trader][2018-01-20 16:14:30,060][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:04:00
+[Trader][2018-01-20 16:14:30,883][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 16:14:30,885][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 16:14:30,886][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:24:30.886433
+[Trader][2018-01-20 16:14:31,772][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 16:14:31,773][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 16:14:31,774][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:24:31.773915
+[Trader][2018-01-20 16:14:31,944][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=0.51053725140992201, Gain=-0.51053725140992201, Estimated=False)
+[Trader][2018-01-20 16:14:31,946][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:04:00
+[Trader][2018-01-20 16:14:32,159][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0.10322580645161682, Gain=-0.10322580645161682, Estimated=False)
+[Trader][2018-01-20 16:14:32,160][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:04:00
+[Trader][2018-01-20 16:14:33,720][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 16:14:33,721][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 16:14:33,722][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 16:14:33,722][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:24:33.722364
+[Trader][2018-01-20 16:14:33,723][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 16:14:33,724][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:24:33.724148
+[Trader][2018-01-20 16:24:30,918][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.019221528111484865, Gain=-0.019221528111484865, Estimated=False)
+[Trader][2018-01-20 16:24:30,922][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:14:00
+[Trader][2018-01-20 16:24:31,810][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.3519129469382665, Gain=-2.3519129469382665, Estimated=False)
+[Trader][2018-01-20 16:24:31,812][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:14:00
+[Trader][2018-01-20 16:24:31,954][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:34:31.954559
+[Trader][2018-01-20 16:24:32,895][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:34:32.895811
+[Trader][2018-01-20 16:24:33,753][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0.56989247311827473, Gain=-0.56989247311827473, Estimated=False)
+[Trader][2018-01-20 16:24:33,755][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:14:00
+[Trader][2018-01-20 16:24:33,754][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=0.01774412965044132, Gain=-0.01774412965044132, Estimated=False)
+[Trader][2018-01-20 16:24:33,756][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:14:00
+[Trader][2018-01-20 16:24:35,214][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:34:35.214705
+[Trader][2018-01-20 16:24:35,675][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:34:35.675484
+[Trader][2018-01-20 16:37:20,128][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.02023530772121878, Gain=-0.02023530772121878, Estimated=False)
+[Trader][2018-01-20 16:37:20,132][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:24:00
+[Trader][2018-01-20 16:37:21,061][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.1978455589314549, Gain=-2.1978455589314549, Estimated=False)
+[Trader][2018-01-20 16:37:21,069][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:24:00
+[Trader][2018-01-20 16:37:22,000][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:47:22.000127
+[Trader][2018-01-20 16:37:22,728][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:47:22.728137
+[Trader][2018-01-20 16:37:23,379][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0.1991924629878894, Gain=-0.1991924629878894, Estimated=False)
+[Trader][2018-01-20 16:37:23,381][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:24:00
+[Trader][2018-01-20 16:37:23,842][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.094736218840663508, Gain=0.094736218840663508, Estimated=False)
+[Trader][2018-01-20 16:37:23,844][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:24:00
+[Trader][2018-01-20 16:37:24,680][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:47:24.680150
+[Trader][2018-01-20 16:37:25,281][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:47:25.281499
+[Trader][2018-01-20 16:47:22,020][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=-0.060511175357537222, Gain=0.060511175357537222, Estimated=False)
+[Trader][2018-01-20 16:47:22,022][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:36:00
+[Trader][2018-01-20 16:47:22,749][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.0965842167255553, Gain=-2.0965842167255553, Estimated=False)
+[Trader][2018-01-20 16:47:22,750][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:36:00
+[Trader][2018-01-20 16:47:23,516][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 16:47:23,518][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 16:47:23,519][INFO] - [XXBTZEUR] Next signal at 2018-01-20 16:57:23.518935
+[Trader][2018-01-20 16:47:24,311][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 16:47:24,313][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 16:47:24,314][INFO] - [XXRPZEUR] Next signal at 2018-01-20 16:57:24.314091
+[Trader][2018-01-20 16:47:24,701][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0.85056507199156617, Gain=-0.85056507199156617, Estimated=False)
+[Trader][2018-01-20 16:47:24,702][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:36:00
+[Trader][2018-01-20 16:47:25,302][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=-0.17768301350391574, Gain=0.17768301350391574, Estimated=False)
+[Trader][2018-01-20 16:47:25,303][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:36:00
+[Trader][2018-01-20 16:47:26,287][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 16:47:26,288][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 16:47:26,289][INFO] - [XETHZEUR] Next signal at 2018-01-20 16:57:26.289364
+[Trader][2018-01-20 16:47:26,823][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 16:47:26,824][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 16:47:26,825][INFO] - [XLTCZEUR] Next signal at 2018-01-20 16:57:26.825496
+[Trader][2018-01-20 16:56:08,745][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.2563372121095104, Gain=-1.2563372121095104, Estimated=False)
+[Trader][2018-01-20 16:56:08,750][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:46:00
+[Trader][2018-01-20 16:56:09,539][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.0334348422929533, Gain=-3.0334348422929533, Estimated=False)
+[Trader][2018-01-20 16:56:09,541][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:46:00
+[Trader][2018-01-20 16:56:11,515][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.9108280254777119, Gain=-1.9108280254777119, Estimated=False)
+[Trader][2018-01-20 16:56:11,517][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:46:00
+[Trader][2018-01-20 16:56:11,593][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:06:11.593222
+[Trader][2018-01-20 16:56:12,050][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=0.59171597633136097, Gain=-0.59171597633136097, Estimated=False)
+[Trader][2018-01-20 16:56:12,052][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:46:00
+[Trader][2018-01-20 16:56:12,283][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:06:12.283454
+[Trader][2018-01-20 16:56:13,928][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:06:13.927858
+[Trader][2018-01-20 16:56:13,928][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:06:13.928091
+[Trader][2018-01-20 17:06:11,659][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=4.0145841389597123, Gain=-4.0145841389597123, Estimated=False)
+[Trader][2018-01-20 17:06:11,664][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 16:56:00
+[Trader][2018-01-20 17:06:12,347][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.5633584832656218, Gain=-2.5633584832656218, Estimated=False)
+[Trader][2018-01-20 17:06:12,350][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 16:56:00
+[Trader][2018-01-20 17:06:13,981][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.3271608625530096, Gain=-3.3271608625530096, Estimated=False)
+[Trader][2018-01-20 17:06:13,982][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.6117669932275591, Gain=-2.6117669932275591, Estimated=False)
+[Trader][2018-01-20 17:06:13,983][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 16:56:00
+[Trader][2018-01-20 17:06:13,984][INFO] - [XETHZEUR] pulling prices since 2018-01-20 16:56:00
+[Trader][2018-01-20 17:06:14,077][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:16:14.077599
+[Trader][2018-01-20 17:06:14,080][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:16:14.079844
+[Trader][2018-01-20 17:06:15,291][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:16:15.290891
+[Trader][2018-01-20 17:06:15,290][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:16:15.290818
+[Trader][2018-01-20 17:16:14,100][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=4.530820573223389, Gain=-4.530820573223389, Estimated=False)
+[Trader][2018-01-20 17:16:14,100][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.3322063527129249, Gain=-1.3322063527129249, Estimated=False)
+[Trader][2018-01-20 17:16:14,104][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:06:00
+[Trader][2018-01-20 17:16:14,107][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:06:00
+[Trader][2018-01-20 17:16:15,246][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 17:16:15,247][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 17:16:15,248][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:26:15.248494
+[Trader][2018-01-20 17:16:15,312][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=2.1677327647476883, Gain=-2.1677327647476883, Estimated=False)
+[Trader][2018-01-20 17:16:15,312][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.5086508166930086, Gain=-1.5086508166930086, Estimated=False)
+[Trader][2018-01-20 17:16:15,313][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:06:00
+[Trader][2018-01-20 17:16:15,313][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:06:00
+[Trader][2018-01-20 17:16:16,209][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 17:16:16,211][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 17:16:16,211][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:26:16.211645
+[Trader][2018-01-20 17:16:20,050][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 17:16:20,052][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 17:16:20,053][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:26:20.053066
+[Trader][2018-01-20 17:16:21,525][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 17:16:21,526][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 17:16:21,527][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:26:21.527328
+[Trader][2018-01-20 17:26:15,278][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=5.0065481168247219, Gain=-5.0065481168247219, Estimated=False)
+[Trader][2018-01-20 17:26:15,281][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:16:00
+[Trader][2018-01-20 17:26:16,240][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.7744791104393873, Gain=-2.7744791104393873, Estimated=False)
+[Trader][2018-01-20 17:26:16,242][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:16:00
+[Trader][2018-01-20 17:26:16,362][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:36:16.362703
+[Trader][2018-01-20 17:26:19,328][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:36:19.328401
+[Trader][2018-01-20 17:26:20,083][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.2721893491124265, Gain=-3.2721893491124265, Estimated=False)
+[Trader][2018-01-20 17:26:20,085][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:16:00
+[Trader][2018-01-20 17:26:21,227][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:36:21.226920
+[Trader][2018-01-20 17:26:21,557][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.9423977596446402, Gain=-2.9423977596446402, Estimated=False)
+[Trader][2018-01-20 17:26:21,558][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:16:00
+[Trader][2018-01-20 17:26:22,833][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:36:22.833607
+[Trader][2018-01-20 17:36:16,396][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=4.0074814738819438, Gain=-4.0074814738819438, Estimated=False)
+[Trader][2018-01-20 17:36:16,401][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:26:00
+[Trader][2018-01-20 17:36:19,183][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:46:19.183190
+[Trader][2018-01-20 17:36:19,361][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.1743122238904431, Gain=-2.1743122238904431, Estimated=False)
+[Trader][2018-01-20 17:36:19,362][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:26:00
+[Trader][2018-01-20 17:36:21,032][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:46:21.032019
+[Trader][2018-01-20 17:36:21,260][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.8826832327817935, Gain=-3.8826832327817935, Estimated=False)
+[Trader][2018-01-20 17:36:21,261][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:26:00
+[Trader][2018-01-20 17:36:22,867][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.2731669568581929, Gain=-2.2731669568581929, Estimated=False)
+[Trader][2018-01-20 17:36:22,868][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:26:00
+[Trader][2018-01-20 17:36:24,414][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:46:24.414577
+[Trader][2018-01-20 17:36:24,415][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:46:24.415652
+[Trader][2018-01-20 17:46:19,214][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.729878288182165, Gain=-3.729878288182165, Estimated=False)
+[Trader][2018-01-20 17:46:19,219][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:36:00
+[Trader][2018-01-20 17:46:20,591][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 17:46:20,593][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 17:46:20,594][INFO] - [XXRPZEUR] Next signal at 2018-01-20 17:56:20.594061
+[Trader][2018-01-20 17:46:21,079][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.1860597653687723, Gain=-1.1860597653687723, Estimated=False)
+[Trader][2018-01-20 17:46:21,086][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:36:00
+[Trader][2018-01-20 17:46:23,247][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 17:46:23,249][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 17:46:23,250][INFO] - [XETHZEUR] Next signal at 2018-01-20 17:56:23.249963
+[Trader][2018-01-20 17:46:24,452][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.5723300644492113, Gain=-1.5723300644492113, Estimated=False)
+[Trader][2018-01-20 17:46:24,452][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.0561478322672331, Gain=-3.0561478322672331, Estimated=False)
+[Trader][2018-01-20 17:46:24,455][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:36:00
+[Trader][2018-01-20 17:46:24,454][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:36:00
+[Trader][2018-01-20 17:46:25,658][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 17:46:25,659][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 17:46:25,660][INFO] - [XXBTZEUR] Next signal at 2018-01-20 17:56:25.660360
+[Trader][2018-01-20 17:46:27,213][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 17:46:27,217][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 17:46:27,219][INFO] - [XLTCZEUR] Next signal at 2018-01-20 17:56:27.218778
+[Trader][2018-01-20 17:56:20,630][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.5608659292803506, Gain=-2.5608659292803506, Estimated=False)
+[Trader][2018-01-20 17:56:20,634][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:46:00
+[Trader][2018-01-20 17:56:23,286][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.4779229191406731, Gain=-1.4779229191406731, Estimated=False)
+[Trader][2018-01-20 17:56:23,288][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:46:00
+[Trader][2018-01-20 17:56:24,030][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:06:24.030172
+[Trader][2018-01-20 17:56:24,258][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:06:24.258396
+[Trader][2018-01-20 17:56:25,697][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.2978610400270352, Gain=-1.2978610400270352, Estimated=False)
+[Trader][2018-01-20 17:56:25,699][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:46:00
+[Trader][2018-01-20 17:56:27,256][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=1.3076923076923124, Gain=-1.3076923076923124, Estimated=False)
+[Trader][2018-01-20 17:56:27,257][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:46:00
+[Trader][2018-01-20 17:56:27,779][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:06:27.779581
+[Trader][2018-01-20 17:56:29,463][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:06:29.462914
+[Trader][2018-01-20 18:06:24,067][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.3871820570896491, Gain=-3.3871820570896491, Estimated=False)
+[Trader][2018-01-20 18:06:24,072][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 17:56:00
+[Trader][2018-01-20 18:06:24,289][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.072779511994908, Gain=-2.072779511994908, Estimated=False)
+[Trader][2018-01-20 18:06:24,291][INFO] - [XETHZEUR] pulling prices since 2018-01-20 17:56:00
+[Trader][2018-01-20 18:06:25,964][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:16:25.963942
+[Trader][2018-01-20 18:06:25,964][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:16:25.963903
+[Trader][2018-01-20 18:06:27,815][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.2721996517701646, Gain=-2.2721996517701646, Estimated=False)
+[Trader][2018-01-20 18:06:27,817][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 17:56:00
+[Trader][2018-01-20 18:06:29,028][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:16:29.027730
+[Trader][2018-01-20 18:06:29,501][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=4.2590048384206414, Gain=-4.2590048384206414, Estimated=False)
+[Trader][2018-01-20 18:06:29,503][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 17:56:00
+[Trader][2018-01-20 18:06:31,743][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:16:31.743732
+[Trader][2018-01-20 18:16:25,999][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.8398442960525623, Gain=-1.8398442960525623, Estimated=False)
+[Trader][2018-01-20 18:16:25,999][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.1016882606988507, Gain=-3.1016882606988507, Estimated=False)
+[Trader][2018-01-20 18:16:26,003][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:06:00
+[Trader][2018-01-20 18:16:26,003][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:06:00
+[Trader][2018-01-20 18:16:27,607][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 18:16:27,609][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 18:16:27,610][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:26:27.610324
+[Trader][2018-01-20 18:16:29,064][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.331245857865976, Gain=-1.331245857865976, Estimated=False)
+[Trader][2018-01-20 18:16:29,065][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:06:00
+[Trader][2018-01-20 18:16:29,547][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 18:16:29,548][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 18:16:29,548][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:26:29.548571
+[Trader][2018-01-20 18:16:31,780][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.0561478322672331, Gain=-3.0561478322672331, Estimated=False)
+[Trader][2018-01-20 18:16:31,783][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:06:00
+[Trader][2018-01-20 18:16:32,986][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 18:16:32,987][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 18:16:32,988][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:26:32.988330
+[Trader][2018-01-20 18:16:38,170][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 18:16:38,174][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 18:16:38,175][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:26:38.175223
+[Trader][2018-01-20 18:26:27,631][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.4430530065853393, Gain=-2.4430530065853393, Estimated=False)
+[Trader][2018-01-20 18:26:27,635][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:16:00
+[Trader][2018-01-20 18:26:28,975][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:36:28.974977
+[Trader][2018-01-20 18:26:29,570][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.509159474257229, Gain=-3.509159474257229, Estimated=False)
+[Trader][2018-01-20 18:26:29,571][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:16:00
+[Trader][2018-01-20 18:26:33,008][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.253874752546952, Gain=-2.253874752546952, Estimated=False)
+[Trader][2018-01-20 18:26:33,009][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:16:00
+[Trader][2018-01-20 18:26:34,026][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:36:34.026002
+[Trader][2018-01-20 18:26:35,360][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:36:35.360571
+[Trader][2018-01-20 18:26:38,197][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.1597633136094694, Gain=-3.1597633136094694, Estimated=False)
+[Trader][2018-01-20 18:26:38,198][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:16:00
+[Trader][2018-01-20 18:26:41,493][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:36:41.493603
+[Trader][2018-01-20 18:36:28,988][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=3.0449012216329545, Gain=-3.0449012216329545, Estimated=False)
+[Trader][2018-01-20 18:36:28,992][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:26:00
+[Trader][2018-01-20 18:36:32,241][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:46:32.240875
+[Trader][2018-01-20 18:36:34,038][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=4.0469407243140179, Gain=-4.0469407243140179, Estimated=False)
+[Trader][2018-01-20 18:36:34,040][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:26:00
+[Trader][2018-01-20 18:36:34,839][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:46:34.839474
+[Trader][2018-01-20 18:36:35,371][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=3.3159218417488807, Gain=-3.3159218417488807, Estimated=False)
+[Trader][2018-01-20 18:36:35,372][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:26:00
+[Trader][2018-01-20 18:36:37,863][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:46:37.863510
+[Trader][2018-01-20 18:36:41,507][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=4.7727136969117794, Gain=-4.7727136969117794, Estimated=False)
+[Trader][2018-01-20 18:36:41,509][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:26:00
+[Trader][2018-01-20 18:36:48,211][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:46:48.211776
+[Trader][2018-01-20 18:46:32,259][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.7452498467692474, Gain=-2.7452498467692474, Estimated=False)
+[Trader][2018-01-20 18:46:32,263][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:36:00
+[Trader][2018-01-20 18:46:34,129][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 18:46:34,131][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 18:46:34,131][INFO] - [XETHZEUR] Next signal at 2018-01-20 18:56:34.131510
+[Trader][2018-01-20 18:46:34,857][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.1617589320769399, Gain=-2.1617589320769399, Estimated=False)
+[Trader][2018-01-20 18:46:34,859][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:36:00
+[Trader][2018-01-20 18:46:36,752][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 18:46:36,753][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 18:46:36,753][INFO] - [XXRPZEUR] Next signal at 2018-01-20 18:56:36.753619
+[Trader][2018-01-20 18:46:37,882][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.4848001690471002, Gain=-2.4848001690471002, Estimated=False)
+[Trader][2018-01-20 18:46:37,884][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:36:00
+[Trader][2018-01-20 18:46:39,749][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 18:46:39,750][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 18:46:39,750][INFO] - [XXBTZEUR] Next signal at 2018-01-20 18:56:39.750759
+[Trader][2018-01-20 18:46:48,231][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=4.5368396114664753, Gain=-4.5368396114664753, Estimated=False)
+[Trader][2018-01-20 18:46:48,232][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:36:00
+[Trader][2018-01-20 18:46:49,411][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 18:46:49,413][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 18:46:49,414][INFO] - [XLTCZEUR] Next signal at 2018-01-20 18:56:49.413934
+[Trader][2018-01-20 18:56:34,150][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.9364136888697017, Gain=-2.9364136888697017, Estimated=False)
+[Trader][2018-01-20 18:56:34,153][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:46:00
+[Trader][2018-01-20 18:56:36,772][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.7502090663805574, Gain=-2.7502090663805574, Estimated=False)
+[Trader][2018-01-20 18:56:36,773][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:46:00
+[Trader][2018-01-20 18:56:36,779][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:06:36.779179
+[Trader][2018-01-20 18:56:37,878][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:06:37.878471
+[Trader][2018-01-20 18:56:39,768][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.591859398387327, Gain=-2.591859398387327, Estimated=False)
+[Trader][2018-01-20 18:56:39,769][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:46:00
+[Trader][2018-01-20 18:56:41,336][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:06:41.336478
+[Trader][2018-01-20 18:56:49,431][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.7337278106508891, Gain=-3.7337278106508891, Estimated=False)
+[Trader][2018-01-20 18:56:49,433][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:46:00
+[Trader][2018-01-20 18:56:51,165][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:06:51.165446
+[Trader][2018-01-20 19:06:36,845][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=3.259848132986257, Gain=-3.259848132986257, Estimated=False)
+[Trader][2018-01-20 19:06:36,855][INFO] - [XETHZEUR] pulling prices since 2018-01-20 18:56:00
+[Trader][2018-01-20 19:06:37,943][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=3.0644053885552505, Gain=-3.0644053885552505, Estimated=False)
+[Trader][2018-01-20 19:06:37,945][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 18:56:00
+[Trader][2018-01-20 19:06:40,471][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:16:40.471128
+[Trader][2018-01-20 19:06:41,404][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=3.2888372992841943, Gain=-3.2888372992841943, Estimated=False)
+[Trader][2018-01-20 19:06:41,406][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 18:56:00
+[Trader][2018-01-20 19:06:41,542][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:16:41.542489
+[Trader][2018-01-20 19:06:42,767][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:16:42.766867
+[Trader][2018-01-20 19:06:51,231][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=4.7786870557314378, Gain=-4.7786870557314378, Estimated=False)
+[Trader][2018-01-20 19:06:51,233][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 18:56:00
+[Trader][2018-01-20 19:06:53,936][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:16:53.936470
+[Trader][2018-01-20 19:16:40,499][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.1430798842973373, Gain=-2.1430798842973373, Estimated=False)
+[Trader][2018-01-20 19:16:40,503][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:06:00
+[Trader][2018-01-20 19:16:41,563][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.4734982332155369, Gain=-2.4734982332155369, Estimated=False)
+[Trader][2018-01-20 19:16:41,564][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:06:00
+[Trader][2018-01-20 19:16:42,602][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 19:16:42,604][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 19:16:42,604][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:26:42.604773
+[Trader][2018-01-20 19:16:42,787][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.0602614466973388, Gain=-2.0602614466973388, Estimated=False)
+[Trader][2018-01-20 19:16:42,788][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:06:00
+[Trader][2018-01-20 19:16:44,799][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 19:16:44,800][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 19:16:44,801][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:26:44.801249
+[Trader][2018-01-20 19:16:46,608][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 19:16:46,609][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 19:16:46,610][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:26:46.610402
+[Trader][2018-01-20 19:16:53,959][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.6484245439469301, Gain=-3.6484245439469301, Estimated=False)
+[Trader][2018-01-20 19:16:53,960][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:06:00
+[Trader][2018-01-20 19:16:56,812][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 19:16:56,814][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 19:16:56,814][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:26:56.814728
+[Trader][2018-01-20 19:26:42,626][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.8488252836202479, Gain=-2.8488252836202479, Estimated=False)
+[Trader][2018-01-20 19:26:42,633][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:16:00
+[Trader][2018-01-20 19:26:43,549][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:36:43.549765
+[Trader][2018-01-20 19:26:44,823][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.5596459030551699, Gain=-2.5596459030551699, Estimated=False)
+[Trader][2018-01-20 19:26:44,824][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:16:00
+[Trader][2018-01-20 19:26:46,630][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.4006566558833504, Gain=-2.4006566558833504, Estimated=False)
+[Trader][2018-01-20 19:26:46,631][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:16:00
+[Trader][2018-01-20 19:26:46,653][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:36:46.653620
+[Trader][2018-01-20 19:26:52,690][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:36:52.690407
+[Trader][2018-01-20 19:26:56,836][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=2.7573964497041401, Gain=-2.7573964497041401, Estimated=False)
+[Trader][2018-01-20 19:26:56,838][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:17:00
+[Trader][2018-01-20 19:26:58,797][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:36:58.797376
+[Trader][2018-01-20 19:36:43,571][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.3951765012271906, Gain=-2.3951765012271906, Estimated=False)
+[Trader][2018-01-20 19:36:43,575][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:26:00
+[Trader][2018-01-20 19:36:46,673][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.8040310646893034, Gain=-2.8040310646893034, Estimated=False)
+[Trader][2018-01-20 19:36:46,675][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:26:00
+[Trader][2018-01-20 19:36:48,500][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:46:48.500560
+[Trader][2018-01-20 19:36:52,712][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=2.243180499129422, Gain=-2.243180499129422, Estimated=False)
+[Trader][2018-01-20 19:36:52,714][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:26:00
+[Trader][2018-01-20 19:36:55,904][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:46:55.904576
+[Trader][2018-01-20 19:36:58,819][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.4944149095036106, Gain=-3.4944149095036106, Estimated=False)
+[Trader][2018-01-20 19:36:58,820][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:26:00
+[Trader][2018-01-20 19:37:07,328][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:47:07.328310
+[Trader][2018-01-20 19:37:19,000][ERROR] - ''
+[Trader][2018-01-20 19:37:19,005][ERROR] - Problem while requesting data for XETHZEUR. Re-attempting (nb 1)
+[Trader][2018-01-20 19:37:21,076][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:47:21.076071
+[Trader][2018-01-20 19:46:48,524][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=2.239497447978021, Gain=-2.239497447978021, Estimated=False)
+[Trader][2018-01-20 19:46:48,528][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:36:00
+[Trader][2018-01-20 19:46:49,957][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 19:46:49,958][INFO] - [XXRPZEUR] Signal received : 0
+[Trader][2018-01-20 19:46:49,959][INFO] - [XXRPZEUR] Next signal at 2018-01-20 19:56:49.959052
+[Trader][2018-01-20 19:46:55,941][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.6042267050912584, Gain=-1.6042267050912584, Estimated=False)
+[Trader][2018-01-20 19:46:55,943][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:37:00
+[Trader][2018-01-20 19:46:57,350][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 19:46:57,352][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 19:46:57,352][INFO] - [XXBTZEUR] Next signal at 2018-01-20 19:56:57.352614
+[Trader][2018-01-20 19:47:07,383][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=3.4341637010676109, Gain=-3.4341637010676109, Estimated=False)
+[Trader][2018-01-20 19:47:07,388][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:37:00
+[Trader][2018-01-20 19:47:09,774][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 19:47:09,775][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 19:47:09,776][INFO] - [XLTCZEUR] Next signal at 2018-01-20 19:57:09.776056
+[Trader][2018-01-20 19:47:21,130][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.3637303022474851, Gain=-2.3637303022474851, Estimated=False)
+[Trader][2018-01-20 19:47:21,133][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:37:00
+[Trader][2018-01-20 19:47:22,897][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 19:47:22,898][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 19:47:22,898][INFO] - [XETHZEUR] Next signal at 2018-01-20 19:57:22.898797
+[Trader][2018-01-20 19:56:50,025][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=1.9336667876358957, Gain=-1.9336667876358957, Estimated=False)
+[Trader][2018-01-20 19:56:50,033][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:46:00
+[Trader][2018-01-20 19:56:51,732][INFO] - [XXRPZEUR] Next signal at 2018-01-20 20:06:51.732135
+[Trader][2018-01-20 19:56:57,408][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.3915176329715357, Gain=-1.3915176329715357, Estimated=False)
+[Trader][2018-01-20 19:56:57,413][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:47:00
+[Trader][2018-01-20 19:56:59,535][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:06:59.535084
+[Trader][2018-01-20 19:57:09,804][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=1.9526627218934978, Gain=-1.9526627218934978, Estimated=False)
+[Trader][2018-01-20 19:57:09,805][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:47:00
+[Trader][2018-01-20 19:57:10,972][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:07:10.972000
+[Trader][2018-01-20 19:57:22,924][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.8761100048436645, Gain=-1.8761100048436645, Estimated=False)
+[Trader][2018-01-20 19:57:22,925][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:47:00
+[Trader][2018-01-20 19:57:24,760][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:07:24.760140
+[Trader][2018-01-20 20:06:51,763][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=1.8285416650225421, Gain=-1.8285416650225421, Estimated=False)
+[Trader][2018-01-20 20:06:51,767][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 19:56:00
+[Trader][2018-01-20 20:06:53,779][INFO] - [XXRPZEUR] Next signal at 2018-01-20 20:16:53.779136
+[Trader][2018-01-20 20:06:59,567][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=1.7215155537041236, Gain=-1.7215155537041236, Estimated=False)
+[Trader][2018-01-20 20:06:59,568][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 19:57:00
+[Trader][2018-01-20 20:07:00,544][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:17:00.544017
+[Trader][2018-01-20 20:07:11,004][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=2.9355608591885538, Gain=-2.9355608591885538, Estimated=False)
+[Trader][2018-01-20 20:07:11,004][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 19:57:00
+[Trader][2018-01-20 20:07:12,114][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:17:12.114172
+[Trader][2018-01-20 20:07:24,791][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.0441236846085653, Gain=-2.0441236846085653, Estimated=False)
+[Trader][2018-01-20 20:07:24,792][INFO] - [XETHZEUR] pulling prices since 2018-01-20 19:57:00
+[Trader][2018-01-20 20:07:26,180][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:17:26.179904
+[Trader][2018-01-20 20:16:53,811][INFO] - [XXRPZEUR] PNL(Perf=0, HoldPerf=1.3977228111503583, Gain=-1.3977228111503583, Estimated=False)
+[Trader][2018-01-20 20:16:53,823][INFO] - [XXRPZEUR] pulling prices since 2018-01-20 20:06:00
+[Trader][2018-01-20 20:16:55,775][INFO] - [XXRPZEUR] Calculating signal
+[Trader][2018-01-20 20:16:55,776][INFO] - [XXRPZEUR] Signal received : 1
+[Trader][2018-01-20 20:16:55,777][INFO] - [XXRPZEUR] Buy signal received. Trying to execute the trade ...
+[Trader][2018-01-20 20:16:55,790][INFO] - Trade executed @1.286070 on XXRPZEUR
+[Trader][2018-01-20 20:16:55,791][INFO] - [XXRPZEUR] Next signal at 2018-01-20 20:26:55.790936
+[Trader][2018-01-20 20:17:00,575][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.64745437079730683, Gain=-0.64745437079730683, Estimated=False)
+[Trader][2018-01-20 20:17:00,577][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 20:07:00
+[Trader][2018-01-20 20:17:03,248][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 20:17:03,250][INFO] - [XXBTZEUR] Signal received : 0
+[Trader][2018-01-20 20:17:03,250][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:27:03.250611
+[Trader][2018-01-20 20:17:12,136][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=1.559905100830365, Gain=-1.559905100830365, Estimated=False)
+[Trader][2018-01-20 20:17:12,140][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 20:07:00
+[Trader][2018-01-20 20:17:15,020][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 20:17:15,021][INFO] - [XLTCZEUR] Signal received : 0
+[Trader][2018-01-20 20:17:15,022][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:27:15.022533
+[Trader][2018-01-20 20:17:26,202][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.1807887712046874, Gain=-1.1807887712046874, Estimated=False)
+[Trader][2018-01-20 20:17:26,206][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:07:00
+[Trader][2018-01-20 20:17:28,395][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 20:17:28,396][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 20:17:28,397][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:27:28.397060
+[Trader][2018-01-20 20:27:03,289][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.83433118312796584, Gain=-0.83433118312796584, Estimated=False)
+[Trader][2018-01-20 20:27:03,294][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 20:17:00
+[Trader][2018-01-20 20:27:05,306][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:37:05.306395
+[Trader][2018-01-20 20:27:15,063][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=1.1834319526627219, Gain=-1.1834319526627219, Estimated=False)
+[Trader][2018-01-20 20:27:15,064][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 20:17:00
+[Trader][2018-01-20 20:27:17,506][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:37:17.506059
+[Trader][2018-01-20 20:27:28,436][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=0.64043915827996833, Gain=-0.64043915827996833, Estimated=False)
+[Trader][2018-01-20 20:27:28,438][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:17:00
+[Trader][2018-01-20 20:27:29,993][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:37:29.993377
+[Trader][2018-01-20 20:37:05,326][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.75273921509741759, Gain=-0.75273921509741759, Estimated=False)
+[Trader][2018-01-20 20:37:05,330][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 20:27:00
+[Trader][2018-01-20 20:37:09,089][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:47:09.089332
+[Trader][2018-01-20 20:37:17,527][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=2.702863961813843, Gain=-2.702863961813843, Estimated=False)
+[Trader][2018-01-20 20:37:17,529][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 20:27:00
+[Trader][2018-01-20 20:37:18,019][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:47:18.018775
+[Trader][2018-01-20 20:37:30,017][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.1257805916290282, Gain=-1.1257805916290282, Estimated=False)
+[Trader][2018-01-20 20:37:30,018][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:27:00
+[Trader][2018-01-20 20:37:31,991][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:47:31.991527
+[Trader][2018-01-20 20:47:09,124][INFO] - [XXBTZEUR] PNL(Perf=0, HoldPerf=0.76753121998078422, Gain=-0.76753121998078422, Estimated=False)
+[Trader][2018-01-20 20:47:09,127][INFO] - [XXBTZEUR] pulling prices since 2018-01-20 20:37:00
+[Trader][2018-01-20 20:47:10,959][INFO] - [XXBTZEUR] Calculating signal
+[Trader][2018-01-20 20:47:10,960][INFO] - [XXBTZEUR] Signal received : 1
+[Trader][2018-01-20 20:47:10,961][INFO] - [XXBTZEUR] Buy signal received. Trying to execute the trade ...
+[Trader][2018-01-20 20:47:10,968][INFO] - Trade executed @10529.700000 on XXBTZEUR
+[Trader][2018-01-20 20:47:10,969][INFO] - [XXBTZEUR] Next signal at 2018-01-20 20:57:10.968887
+[Trader][2018-01-20 20:47:18,052][INFO] - [XLTCZEUR] PNL(Perf=0, HoldPerf=2.9893238434163654, Gain=-2.9893238434163654, Estimated=False)
+[Trader][2018-01-20 20:47:18,056][INFO] - [XLTCZEUR] pulling prices since 2018-01-20 20:37:00
+[Trader][2018-01-20 20:47:21,534][INFO] - [XLTCZEUR] Calculating signal
+[Trader][2018-01-20 20:47:21,535][INFO] - [XLTCZEUR] Signal received : 1
+[Trader][2018-01-20 20:47:21,536][INFO] - [XLTCZEUR] Buy signal received. Trying to execute the trade ...
+[Trader][2018-01-20 20:47:21,542][INFO] - Trade executed @174.260000 on XLTCZEUR
+[Trader][2018-01-20 20:47:21,544][INFO] - [XLTCZEUR] Next signal at 2018-01-20 20:57:21.543851
+[Trader][2018-01-20 20:47:32,027][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.0936019977611386, Gain=-1.0936019977611386, Estimated=False)
+[Trader][2018-01-20 20:47:32,028][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:37:00
+[Trader][2018-01-20 20:47:33,848][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 20:47:33,849][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 20:47:33,850][INFO] - [XETHZEUR] Next signal at 2018-01-20 20:57:33.850277
+[Trader][2018-01-20 20:57:33,871][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.8147570098487718, Gain=-1.8147570098487718, Estimated=False)
+[Trader][2018-01-20 20:57:33,874][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:47:00
+[Trader][2018-01-20 20:57:35,608][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:07:35.608607
+[Trader][2018-01-20 21:07:35,628][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.9771386590029985, Gain=-1.9771386590029985, Estimated=False)
+[Trader][2018-01-20 21:07:35,632][INFO] - [XETHZEUR] pulling prices since 2018-01-20 20:57:00
+[Trader][2018-01-20 21:07:37,520][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:17:37.520179
+[Trader][2018-01-20 21:17:37,556][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.7426590889520424, Gain=-1.7426590889520424, Estimated=False)
+[Trader][2018-01-20 21:17:37,559][INFO] - [XETHZEUR] pulling prices since 2018-01-20 21:07:00
+[Trader][2018-01-20 21:17:42,443][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 21:17:42,444][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 21:17:42,445][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:27:42.445244
+[Trader][2018-01-20 21:27:42,468][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.2549916581454226, Gain=-2.2549916581454226, Estimated=False)
+[Trader][2018-01-20 21:27:42,471][INFO] - [XETHZEUR] pulling prices since 2018-01-20 21:17:00
+[Trader][2018-01-20 21:27:45,956][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:37:45.955957
+[Trader][2018-01-20 21:37:45,996][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.0992242701873365, Gain=-2.0992242701873365, Estimated=False)
+[Trader][2018-01-20 21:37:46,000][INFO] - [XETHZEUR] pulling prices since 2018-01-20 21:27:00
+[Trader][2018-01-20 21:37:47,820][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:47:47.820339
+[Trader][2018-01-20 21:47:47,841][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=1.9288728149487722, Gain=-1.9288728149487722, Estimated=False)
+[Trader][2018-01-20 21:47:47,844][INFO] - [XETHZEUR] pulling prices since 2018-01-20 21:37:00
+[Trader][2018-01-20 21:47:49,175][INFO] - [XETHZEUR] Calculating signal
+[Trader][2018-01-20 21:47:49,176][INFO] - [XETHZEUR] Signal received : 0
+[Trader][2018-01-20 21:47:49,177][INFO] - [XETHZEUR] Next signal at 2018-01-20 21:57:49.176966
+[Trader][2018-01-20 21:57:49,217][INFO] - [XETHZEUR] PNL(Perf=0, HoldPerf=2.3626284914697862, Gain=-2.3626284914697862, Estimated=False)
+[Trader][2018-01-20 21:57:49,226][INFO] - [XETHZEUR] pulling prices since 2018-01-20 21:47:00
+[Trader][2018-01-20 21:57:52,968][INFO] - [XETHZEUR] Next signal at 2018-01-20 22:07:52.967915
+[Trader][2018-01-20 22:00:44,920][ERROR] - Shutting down after signal from user!!!!
+Bye!

@@ -1,0 +1,320 @@
+[histo][2017-12-24 18:39:50,408][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:45:17,260][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:46:18,792][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:48:34,335][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:52:08,350][ERROR] - No file found for XXBTZEUR, Creating one ...
+[histo][2017-12-24 18:52:08,356][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:53:43,765][ERROR] - Proble with file for XXBTZEUR, Creating new one ...
+ File ../XXBTZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 18:53:43,770][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:56:36,071][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 18:57:39,134][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:00:17,900][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:01:02,712][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:02:55,843][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:04:03,523][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:05:51,187][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:07:18,998][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:07:34,470][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:09:01,617][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:20:53,264][ERROR] - ''
+[histo][2017-12-24 19:20:53,269][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 19:21:05,001][ERROR] - Problem with file for XZECZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XZECZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:21:05,002][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 19:21:06,100][ERROR] - Problem with file for XLTCZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XLTCZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:21:06,101][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 19:21:09,660][ERROR] - Problem with file for XXMRZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XXMRZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:21:09,660][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 19:21:16,513][ERROR] - Problem with file for XXBTZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XXBTZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:21:16,516][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:22:59,087][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 19:23:01,531][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 19:23:01,531][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 19:23:04,709][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 19:23:04,709][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 19:23:08,413][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 19:23:08,413][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 19:23:12,201][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:23:12,202][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 19:24:10,422][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 19:27:39,621][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 19:27:41,287][ERROR] - ''
+[histo][2017-12-24 19:27:41,287][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 19:27:41,287][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 19:27:44,923][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 19:27:44,924][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 19:27:48,478][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 19:27:48,478][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 19:27:51,850][ERROR] - ''
+[histo][2017-12-24 19:27:51,851][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 19:27:51,851][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 19:27:55,285][ERROR] - ''
+[histo][2017-12-24 19:27:55,285][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[histo][2017-12-24 19:27:55,285][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 19:28:02,994][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 19:28:02,994][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 19:28:04,517][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:28:04,517][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 19:28:10,466][ERROR] - Problem with file for XETHZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XETHZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:28:10,467][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 19:28:10,468][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 19:28:11,828][ERROR] - Problem with file for XXRPZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XXRPZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:28:11,828][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 19:28:11,829][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:28:14,965][ERROR] - ''
+[histo][2017-12-24 19:28:14,972][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 19:28:14,974][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:28:33,602][ERROR] - ''
+[histo][2017-12-24 19:28:33,602][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[histo][2017-12-24 19:28:33,602][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:28:49,598][ERROR] - ''
+[histo][2017-12-24 19:28:49,599][ERROR] - Problem while requesting data. Re-attempting (nb 3)
+[histo][2017-12-24 19:28:49,599][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:29:05,531][ERROR] - ''
+[histo][2017-12-24 19:29:05,531][ERROR] - Problem while requesting data. Re-attempting (nb 4)
+[histo][2017-12-24 19:29:05,532][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:29:07,544][ERROR] - Problem with file for DASHEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/DASHEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:29:07,544][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 19:29:07,545][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 19:29:10,287][ERROR] - Problem with file for XREPZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XREPZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:29:10,288][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 19:29:10,289][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 19:29:28,581][ERROR] - ''
+[histo][2017-12-24 19:29:28,582][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 19:29:28,582][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 19:29:29,655][ERROR] - Problem with file for BCHEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/BCHEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:29:29,656][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 19:29:29,657][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 19:29:33,192][ERROR] - Problem with file for XETCZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/XETCZEUR_ohlc_histo.csv does not exist
+[histo][2017-12-24 19:29:33,193][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 19:45:17,500][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 19:45:17,500][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 19:45:17,500][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 19:45:17,501][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 19:45:17,503][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 19:45:20,351][ERROR] - Problem with file for XLTCZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XLTCZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:20,354][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 19:45:20,358][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 19:45:20,377][ERROR] - Problem with file for XXMRZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XXMRZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:20,379][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 19:45:20,380][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 19:45:20,444][ERROR] - Problem with file for XXBTZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XXBTZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:20,445][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 19:45:20,447][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 19:45:20,537][ERROR] - Problem with file for XETHZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XETHZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:20,538][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 19:45:20,539][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 19:45:20,860][ERROR] - Problem with file for XZECZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XZECZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:20,861][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 19:45:20,863][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 19:45:23,876][ERROR] - Problem with file for DASHEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/DASHEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:23,877][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 19:45:23,999][ERROR] - Problem with file for XREPZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XREPZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:24,000][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 19:45:24,016][ERROR] - Problem with file for XETCZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XETCZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:24,017][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 19:45:24,182][ERROR] - Problem with file for XXRPZEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/XXRPZEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:24,183][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 19:45:24,201][ERROR] - Problem with file for BCHEUR, Creating new one ...
+ File /Users/Chafik/workspace/python/my_projects/crypto_currency/tradox/data/histo/ohlc/BCHEUR_histo.csv does not exist
+[histo][2017-12-24 19:45:24,202][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 20:08:27,129][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 20:08:27,129][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 20:08:27,130][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 20:08:27,130][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 20:08:27,131][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 20:08:31,001][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 20:08:31,002][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 20:08:31,160][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 20:08:31,160][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 20:08:31,161][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 20:08:31,161][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 20:08:31,946][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 20:08:31,946][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 20:08:33,074][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 20:08:33,079][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 20:08:35,340][ERROR] - ''
+[histo][2017-12-24 20:08:35,341][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 20:08:35,342][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 20:08:36,006][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 20:08:36,681][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 20:08:37,867][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 20:08:37,954][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 20:08:48,940][ERROR] - ''
+[histo][2017-12-24 20:08:48,951][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 20:08:48,952][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 20:08:49,889][ERROR] - ''
+[histo][2017-12-24 20:08:49,890][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[histo][2017-12-24 20:08:49,891][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 20:08:57,515][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:19:32,562][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:19:32,569][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:19:32,590][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:19:32,595][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:19:32,600][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:19:36,420][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:19:36,421][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:19:36,519][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:19:36,520][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:19:36,780][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:19:36,781][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:19:36,890][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:19:36,892][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:19:37,660][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:19:37,661][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:19:39,227][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:19:39,840][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:19:39,926][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:19:40,131][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:19:54,507][ERROR] - ''
+[histo][2017-12-24 21:19:54,510][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 21:19:54,511][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:19:56,172][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:21:14,868][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:21:14,875][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:21:14,882][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:21:14,891][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:21:14,906][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:21:53,077][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:21:53,080][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:21:54,113][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:21:54,114][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:21:54,434][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:21:54,435][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:21:54,547][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:21:54,549][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:21:55,743][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:21:55,744][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:21:56,913][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:21:57,850][ERROR] - ''
+[histo][2017-12-24 21:21:57,858][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 21:21:57,859][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:21:58,293][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:21:58,297][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:21:58,298][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:22:01,778][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:22:21,530][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:22:21,531][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:22:21,531][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:22:21,531][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:22:21,533][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:22:25,713][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:22:25,714][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:22:25,724][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:22:25,726][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:22:25,727][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:22:25,729][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:22:25,909][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:22:25,910][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:22:25,910][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:22:25,911][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:22:29,008][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:22:29,064][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:22:29,092][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:22:29,096][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:22:29,171][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:25:05,504][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:25:05,507][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:25:05,506][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:25:05,505][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:25:05,507][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:25:08,817][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:25:08,819][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:25:08,940][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:25:08,941][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:25:09,086][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:25:09,088][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:25:09,104][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:25:09,105][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:25:09,328][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:25:09,328][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:25:12,605][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:25:12,736][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:25:12,766][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:25:12,863][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:25:13,655][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:30:42,833][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:30:42,832][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:30:42,832][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:30:42,833][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:30:42,837][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:30:47,504][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:30:47,505][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:30:47,509][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:30:47,510][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:30:47,522][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:30:47,523][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:30:47,525][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:30:47,525][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:30:47,525][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:30:47,526][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:30:50,253][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:30:50,304][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:30:50,396][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:30:50,400][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:30:50,411][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:33:23,192][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:33:23,192][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:33:23,193][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:33:23,197][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:33:23,198][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:33:26,749][ERROR] - ''
+[histo][2017-12-24 21:33:26,750][ERROR] - Problem while requesting data. Re-attempting (nb 1)
+[histo][2017-12-24 21:33:26,751][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:33:27,309][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:33:27,310][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:33:27,353][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:33:27,354][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:33:27,386][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:33:27,387][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:33:27,406][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:33:27,407][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:33:29,894][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:33:29,895][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:33:29,921][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:33:30,138][ERROR] - ''
+[histo][2017-12-24 21:33:30,140][ERROR] - Problem while requesting data. Re-attempting (nb 2)
+[histo][2017-12-24 21:33:30,141][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:33:30,620][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:33:30,689][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:33:34,484][INFO] - ohlc histo file saved for XETCZEUR.
+[histo][2017-12-24 21:33:34,520][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:47:08,571][INFO] - starting importing histo data for XZECZEUR.
+[histo][2017-12-24 21:47:08,573][INFO] - starting importing histo data for XLTCZEUR.
+[histo][2017-12-24 21:47:08,576][INFO] - starting importing histo data for XXBTZEUR.
+[histo][2017-12-24 21:47:08,575][INFO] - starting importing histo data for XXMRZEUR.
+[histo][2017-12-24 21:47:08,579][INFO] - starting importing histo data for XETHZEUR.
+[histo][2017-12-24 21:47:08,581][INFO] - starting importing histo data for XXRPZEUR.
+[histo][2017-12-24 21:47:08,586][INFO] - starting importing histo data for DASHEUR.
+[histo][2017-12-24 21:47:08,586][INFO] - starting importing histo data for XREPZEUR.
+[histo][2017-12-24 21:47:08,588][INFO] - starting importing histo data for BCHEUR.
+[histo][2017-12-24 21:47:08,592][INFO] - starting importing histo data for XETCZEUR.
+[histo][2017-12-24 21:47:12,219][INFO] - ohlc histo file saved for XZECZEUR.
+[histo][2017-12-24 21:47:13,357][INFO] - ohlc histo file saved for XLTCZEUR.
+[histo][2017-12-24 21:47:14,463][INFO] - ohlc histo file saved for XXMRZEUR.
+[histo][2017-12-24 21:47:15,980][INFO] - ohlc histo file saved for XXBTZEUR.
+[histo][2017-12-24 21:47:17,182][INFO] - ohlc histo file saved for XETHZEUR.
+[histo][2017-12-24 21:47:18,456][INFO] - ohlc histo file saved for XXRPZEUR.
+[histo][2017-12-24 21:47:19,377][INFO] - ohlc histo file saved for DASHEUR.
+[histo][2017-12-24 21:47:20,462][INFO] - ohlc histo file saved for XREPZEUR.
+[histo][2017-12-24 21:47:21,465][INFO] - ohlc histo file saved for BCHEUR.
+[histo][2017-12-24 21:47:22,600][INFO] - ohlc histo file saved for XETCZEUR.

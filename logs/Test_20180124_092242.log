@@ -1,0 +1,9 @@
+[Test][2018-01-24 09:22:45,128][INFO] - =========== START =============
+[Test][2018-01-24 09:22:47,161][INFO] - [XXRPZEUR][H_180_3_2_90_70] ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=180, local_stop_loss=90%, stop_loss=70%, wick=True, candles=3, bodies=2
+[Test][2018-01-24 09:22:47,164][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-24 09:16:45.156837
+[Test][2018-01-24 09:22:48,992][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-24 09:22:48,994][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-24 09:22:51,517][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal.STOP_LOSS triggered! Trying to execute the trade ... - Signal.STOP_LOSS
+[Test][2018-01-24 09:22:53,389][ERROR] - [XXRPZEUR][H_180_3_2_90_70] Trade executed @1.105000 at 2018-01-24 09:22:51 - Signal.STOP_LOSS
+[Test][2018-01-24 09:22:55,353][INFO] - [XXRPZEUR][H_180_3_2_90_70] Perf = -110.50%, Hold = 1.06%, Gain = -111.56%, Estimated = False
+[Test][2018-01-24 09:22:57,728][ERROR] - [XXRPZEUR][H_180_3_2_90_70] Shutting down - Signal.STOP_LOSS

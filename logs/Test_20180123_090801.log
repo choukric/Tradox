@@ -1,0 +1,115 @@
+[Test][2018-01-23 09:08:04,317][INFO] - =========== START =============
+[Test][2018-01-23 09:08:05,890][INFO] - [XXRPZEUR][H_180_3_2_90_70] ====Trading System TradingSystem1 started===== pair=XXRPZEUR, simul=True, step=180, local_stop_loss=90%, stop_loss=70%, wick=True, candles=3, bodies=2
+[Test][2018-01-23 09:08:05,891][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:02:04.343383
+[Test][2018-01-23 09:08:07,080][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:08:07,081][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:08:07,082][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:09:07.081850
+[Test][2018-01-23 09:09:07,085][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:08:00
+[Test][2018-01-23 09:09:08,489][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:09:08,490][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:09:08,491][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:10:08.491550
+[Test][2018-01-23 09:10:08,495][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:09:00
+[Test][2018-01-23 09:10:10,938][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:10:10,942][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:10:10,945][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:11:10.944358
+[Test][2018-01-23 09:11:10,950][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:10:00
+[Test][2018-01-23 09:11:12,301][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:11:12,303][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:11:12,304][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:12:12.304501
+[Test][2018-01-23 09:12:12,307][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:11:00
+[Test][2018-01-23 09:12:14,218][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:12:14,219][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:12:14,219][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:13:14.219543
+[Test][2018-01-23 09:13:14,223][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:12:00
+[Test][2018-01-23 09:13:15,078][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:13:15,079][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:13:15,080][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:14:15.080248
+[Test][2018-01-23 09:14:15,083][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:13:00
+[Test][2018-01-23 09:14:17,174][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:14:17,176][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:14:17,177][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:15:17.177181
+[Test][2018-01-23 09:15:17,180][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:14:00
+[Test][2018-01-23 09:15:19,071][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:15:19,073][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:15:19,074][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:16:19.074231
+[Test][2018-01-23 09:16:19,078][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:15:00
+[Test][2018-01-23 09:16:20,132][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:16:20,133][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:16:20,134][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:17:20.133780
+[Test][2018-01-23 09:17:20,137][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:16:00
+[Test][2018-01-23 09:17:21,672][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:17:21,675][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:17:21,676][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:18:21.676338
+[Test][2018-01-23 09:18:21,679][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:17:00
+[Test][2018-01-23 09:18:23,077][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:18:23,078][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:18:23,079][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:19:23.079138
+[Test][2018-01-23 09:19:23,082][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:18:00
+[Test][2018-01-23 09:19:25,168][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:19:25,169][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:19:25,170][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:20:25.170388
+[Test][2018-01-23 09:20:25,173][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:19:00
+[Test][2018-01-23 09:20:26,890][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:20:26,891][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:20:26,892][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:21:26.892139
+[Test][2018-01-23 09:21:26,895][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:20:00
+[Test][2018-01-23 09:21:28,912][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:21:28,913][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:21:28,913][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:22:28.913568
+[Test][2018-01-23 09:22:28,921][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:21:00
+[Test][2018-01-23 09:22:30,355][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:22:30,356][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:22:30,356][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:23:30.356657
+[Test][2018-01-23 09:23:30,366][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:22:00
+[Test][2018-01-23 09:23:31,487][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:23:31,488][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:23:31,489][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:24:31.489367
+[Test][2018-01-23 09:24:31,492][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:23:00
+[Test][2018-01-23 09:24:34,156][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:24:34,158][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:24:34,159][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:25:34.159099
+[Test][2018-01-23 09:25:34,162][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:24:00
+[Test][2018-01-23 09:25:35,346][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:25:35,347][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:25:35,348][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:26:35.348549
+[Test][2018-01-23 09:26:35,352][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:25:00
+[Test][2018-01-23 09:26:36,360][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:26:36,362][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:26:36,362][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:27:36.362623
+[Test][2018-01-23 09:27:36,366][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:26:00
+[Test][2018-01-23 09:27:37,726][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:27:37,726][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:27:37,729][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:28:37.729345
+[Test][2018-01-23 09:28:37,732][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:27:00
+[Test][2018-01-23 09:28:38,221][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:28:38,222][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:28:38,223][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:29:38.222993
+[Test][2018-01-23 09:29:38,226][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:28:00
+[Test][2018-01-23 09:29:39,518][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:29:39,520][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:29:39,521][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:30:39.520996
+[Test][2018-01-23 09:30:39,524][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:29:00
+[Test][2018-01-23 09:30:42,199][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:30:42,200][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:30:42,202][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:31:42.201775
+[Test][2018-01-23 09:31:42,206][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:30:00
+[Test][2018-01-23 09:31:43,934][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:31:43,935][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:31:43,936][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:32:43.936184
+[Test][2018-01-23 09:32:43,939][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:31:00
+[Test][2018-01-23 09:32:45,054][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:32:45,055][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.PASS
+[Test][2018-01-23 09:32:45,058][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:33:45.058418
+[Test][2018-01-23 09:33:45,061][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:32:00
+[Test][2018-01-23 09:33:46,189][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:33:46,190][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.BUY
+[Test][2018-01-23 09:33:46,191][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:34:46.191438
+[Test][2018-01-23 09:34:46,194][INFO] - [XXRPZEUR][H_180_3_2_90_70] Pulling prices since 2018-01-23 09:33:00
+[Test][2018-01-23 09:34:47,560][INFO] - [XXRPZEUR][H_180_3_2_90_70] Calculating signal
+[Test][2018-01-23 09:34:47,561][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal received : Signal.BUY
+[Test][2018-01-23 09:34:50,006][INFO] - [XXRPZEUR][H_180_3_2_90_70] Signal.BUY triggered! Trying to execute the trade ... - Signal.BUY
+[Test][2018-01-23 09:34:52,006][ERROR] - [XXRPZEUR][H_180_3_2_90_70] Trade executed @1.038550 at 2018-01-23 09:34:50 - Signal.BUY
+[Test][2018-01-23 09:34:53,390][INFO] - [XXRPZEUR][H_180_3_2_90_70] Perf = 0.00%, Hold = -2.02%, Gain = 2.02%, Estimated = True
+[Test][2018-01-23 09:34:53,391][INFO] - [XXRPZEUR][H_180_3_2_90_70] Next signal at 2018-01-23 09:35:53.391275
+[Test][2018-01-23 09:35:36,496][ERROR] - Shutting down after signal from user!!!!
+Bye!
